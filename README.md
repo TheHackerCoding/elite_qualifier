@@ -1,6 +1,6 @@
 # `scraper`
 
-A random scraper made in Python
+A cool random scraper made in Python
 
 ## Table of Contents
 
